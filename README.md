@@ -12,5 +12,4 @@
 
 - ⚡Fun fact: I'm an avid reader and a passionate cook, always experimenting with new recipes!
 
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/lavanya-rapelli-188263259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) or drop me an [email](mailto:lavanyarapelli555@gmail.com).
 
