@@ -7,7 +7,7 @@
 - 🌱 Avidly learning HTML, CSS, JavaScript, MongoDB, SQL, Data Structures & Algorithms in Java for crafting engaging web experiences.
 - 👀 Deeply interested in software development, education technology, and empowering others through knowledge.
 - 💻 Eager to collaborate on web development and educational initiatives.
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/lavanya-rapelli-188263259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) or drop me an [email](mailto:lavanyarapelli555@gmail.com).
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/lavanya-rapelli-188263259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) or drop me an [email](mailto:lavanyarapelli25@gmail.com).
 
 
 - ⚡Fun fact: I'm an avid reader and a passionate cook, always experimenting with new recipes!
