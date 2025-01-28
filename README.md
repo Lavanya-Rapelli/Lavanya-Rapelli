@@ -1,6 +1,6 @@
 <h1 align="center">Hey👋, My name is Lavanya-Rapelli</h1>
 <h3 align="center">I'm a MERN Full Stack Developer with developing, and implementing applications and solutions using JavaScript, React & Node</h3>
-<img align="right" alt="coding" width="400"src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnFpOGlsam15NHhuOXJ3bnlxM2E1NDJ6MDd2ZXltZmNkZnpxYjdidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"alt="Coding Freak">
+<img align="right" alt="coding" width="450"src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnFpOGlsam15NHhuOXJ3bnlxM2E1NDJ6MDd2ZXltZmNkZnpxYjdidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"alt="Coding Freak">
 
 ## 💫 About Me:
 
