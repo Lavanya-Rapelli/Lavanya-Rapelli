@@ -6,8 +6,11 @@
 
 </h2>
 - 🔭 Currently mastering Full Stack Web Development with a focus on MERN stack.
+
 - 👀 Deeply interested in software development, education technology, and empowering others through knowledge.
+
 - 💻 Eager to collaborate on web development and educational initiatives.
+
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/lavanya-rapelli-188263259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) or drop me an [email](mailto:lavanyarapelli25@gmail.com).
 - 
 ⚡ Fun fact *Editing*
