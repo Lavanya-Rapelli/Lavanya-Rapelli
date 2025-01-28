@@ -1,15 +1,27 @@
+[![Linkedin Badge](https://img.shields.io/badge/-Lavanya_Rapelli-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/codersadhu/)](https://www.linkedin.com/in/lavanya-rapelli-188263259?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BCrEFOXOwSbmIvv43kunUoQ%3D%3D)
 [![GitHub followers](https://img.shields.io/github/followers/Lavanya-Rapelli?label=Follow&style=social)](https://github.com/Lavanya-Rapelli/?tab=follow) [![Gmail Badge](https://img.shields.io/badge/-Lavanya_Rapelli-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:lavanyarapelli25@gmail.com)](mailto:lavanyarapelli25@gmail.com)
-<h1 align="center">Hey👋, I'm Lavanya Rapelli
-</h1><h3 align="center">I'm a Backend Developer specializing in building and optimizing robust, scalable applications and solutions using technologies like Node.js, JavaScript, and various server-side frameworks.
-</h3><img align="right" alt="coding" width="400" src="https://i.giphy.com/L1R1tvI9svkIWwpVYr.webp"> <img src="https://komarev.com/ghpvc/?username=Lavanya-Rapelli&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="Lavanya Rapelli"> <a href="https://twitter.com/Lavanya Rapelli" target="blank"><img src="https://img.shields.io/twitter/follow/Lavanya Rapelli?logo=twitter&amp;style=for-the-badge" alt="utkarshraz1"></a>
+<h1 align="center">Hey👋, My name is Lavanya Rapelli</h1>
+<h3 align="center">I'm a Backend Developer specializing in building and optimizing robust, scalable applications and solutions using technologies like Node.js, JavaScript, and various server-side frameworks.
+</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Lavanya-Rapelli&label=Profile%20views&color=0e75b6&style=flat" alt="Lavanya Rapelli" /> </p>
+
+<p align="left"> <a href="https://twitter.com/Lavanya-Rapelli" target="blank"><img src="https://img.shields.io/twitter/follow/Lavanya-Rapelli?logo=twitter&style=for-the-badge" alt="lavanya" /></a> </p>
 
 ## 💫 About Me:
+<img align="right"  alt="coding" width="450" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnFpOGlsam15NHhuOXJ3bnlxM2E1NDJ6MDd2ZXltZmNkZnpxYjdidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Freak">
 
-🌱 I’m currently learning *Node Advance*
+🔭 I’m currently working on [MeetHub-VoiceChat-WebApp](https://github.com/utkarsh032/MeetHub-VoiceChat-WebApp)
+
+🌱 I’m currently learning *Backend Advance*
+
+🤝 I’m looking for help with [MeetHub-VoiceChat-WebApp](https://github.com/utkarsh032/MeetHub-VoiceChat-WebApp)
+
+👨‍💻 All of my projects are available at [https://utkarsh-raz032.netlify.app/](https://utkarsh-raz032.netlify.app/)
 
 💬 Ask me about *MERN*
 
-## ⚡ Fun fact *Editing*
+⚡ Fun fact *Roasting*
 
 ## 💻 Tech Stack:
 
