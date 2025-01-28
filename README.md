@@ -1,6 +1,6 @@
 <h1 align="center">Hey👋, My name is Lavanya-Rapelli</h1>
 <h3 align="center">I'm a MERN Full Stack Developer with developing, and implementing applications and solutions using JavaScript, React & Node</h3>
-<img align="right" alt="coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0*PXf5ge7QCN9Ga_CL.gif"alt="Coding Freak">
+<img align="right" alt="coding" width="300" src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0*PXf5ge7QCN9Ga_CL.gif"alt="Coding Freak">
 
 ## 💫 About Me:
 
@@ -12,8 +12,8 @@
 - 💻 Eager to collaborate on web development and educational initiatives.
 
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/lavanya-rapelli-188263259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) or drop me an [email](mailto:lavanyarapelli25@gmail.com).
-- 
-⚡ Fun fact *Editing*
+  
+⚡ Fun fact *Roasting*
 --
 
 ## 💻 Tech Stack:
