@@ -11,16 +11,17 @@
 ## 💫 About Me:
 <img align="right"  alt="coding" width="450" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnFpOGlsam15NHhuOXJ3bnlxM2E1NDJ6MDd2ZXltZmNkZnpxYjdidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Freak">
 
-🔭 I’m currently working on [MeetHub-VoiceChat-WebApp](https://github.com/utkarsh032/MeetHub-VoiceChat-WebApp)
+🔭 I’m currently a Backend Development Student at Masai School.
 
-🌱 I’m currently learning *Backend Advance*
+🌱 I’m learning Core Backend concepts like MySQL, REST APIs, and Authentication.
 
-🤝 I’m looking for help with [MeetHub-VoiceChat-WebApp](https://github.com/utkarsh032/MeetHub-VoiceChat-WebApp)
+🤝 I’m actively engaging with coding challenges and collaborating on projects.
 
+💬 Ask me about JavaScript, MERN Stack, and Affiliate Marketing.
 
-💬 Ask me about *MERN*
+🎯 My short-term goal: To excel at coding and secure a role at a reputed tech company.
 
-⚡ Fun fact *Roasting*
+⚡ Fun fact: I love dancing, singing, and exploring new places and food!
 
 ## 💻 Tech Stack:
 
