@@ -5,21 +5,11 @@
 
 ## 💫 About Me:
 
-🔭 I’m currently
-
-🌱 I’m currently learning *React Advance*
-
-🤝 I’m looking for help with [MeetHub-VoiceChat-WebApp](https://github.com/Lavanya-Rapelli/MeetHub-VoiceChat-WebApp)
-
-👨‍💻 All of my projects are available at [https://utkarsh-raz032.netlify.app/](https://utkarsh-raz032.netlify.app/)
+🌱 I’m currently learning *Node Advance*
 
 💬 Ask me about *MERN*
 
 ## ⚡ Fun fact *Editing*
-
-<h3 align="left">Connect with me:
-</h3>
-<a href="https://codesandbox.com/Lavanya-Rapelli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="Lavanya-Rapelli" height="30" width="40"></a> <a href="https://dribbble.com/utkarshraz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="utkarshraz" height="30" width="40"></a> <a href="https://medium.com/utkarshraj525" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="utkarshraj525" height="30" width="40"></a> <a href="https://www.youtube.com/c/utkarshraz9900" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="utkarshraz9900" height="30" width="40"></a> <a href="https://www.hackerrank.com/utkarshraj525" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="utkarshraj525" height="30" width="40"></a> <a href="https://www.leetcode.com/utkarshraj525" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="utkarshraj525" height="30" width="40"></a> <a href="https://discord.gg/utkarshraj032" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="utkarshraj032" height="30" width="40"></a> <a href="https://discord.gg/utkarshraj032" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="utkarshraj032" height="30" width="40"></a>
 
 ## 💻 Tech Stack:
 
@@ -33,6 +23,7 @@
 ## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=Lavanya-Rapelli&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lavanya-Rapelli&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
