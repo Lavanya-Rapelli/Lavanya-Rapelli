@@ -1,20 +1,10 @@
-[![Linkedin Badge](https://img.shields.io/badge/-Utkarsh_Raj-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/codersadhu/)](https://www.linkedin.com/in/utkarsh-raj032/) [![GitHub followers](https://img.shields.io/github/followers/utkarsh032?label=Follow&style=social)](https://github.com/utkarsh032/?tab=follow) [![Gmail Badge](https://img.shields.io/badge/-Utkarsh_Raj-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:utkarshraj525@gmail.com)](mailto:utkarshraj525@gmail.com) 
-
-<h1 align="center">Hey👋, My name is Lavanya Rapelli</h1>
+<h1 align="center">Hey👋, My name is Lavanya-Rapelli</h1>
 <h3 align="center">I'm a MERN Full Stack Developer with developing, and implementing applications and solutions using JavaScript, React & Node</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/249570803-02293768-9242-47e1-bf8f-d084ba0a2d1d.gif" alt="Coding Freak">
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarsh032&label=Profile%20views&color=0e75b6&style=flat" alt="utkarsh032" /> </p>
-
-<p align="left"> <a href="https://twitter.com/utkarshraz1" target="blank"><img src="https://img.shields.io/twitter/follow/utkarshraz1?logo=twitter&style=for-the-badge" alt="utkarshraz1" /></a> </p>
+<img align="right" alt="coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0*PXf5ge7QCN9Ga_CL.gif"alt="Coding Freak">
 
 ## 💫 About Me:
 
-<h2 align="center">"Exploring MERN stack, aspiring Full Stack Web Developer from India."
 </h2>
-<h3 align="center">"Enthusiastically diving into Full Stack Web Development, I'm immersing myself in team collaboration, debugging, and feature development. Currently mastering React, Redux, JavaScript, and CSS, I'm also exploring databases like MongoDB, SQL, and honing my skills in Data Structures and Algorithms using Java. Eager to apply this knowledge to create user-centric web applications, I'm dedicated to learning, contributing, and growing within the dynamic realm of web development."</h3>
-
 - 🔭 Currently mastering Full Stack Web Development with a focus on MERN stack.
 - 👀 Deeply interested in software development, education technology, and empowering others through knowledge.
 - 💻 Eager to collaborate on web development and educational initiatives.
@@ -40,4 +30,3 @@
 ---
 <!--[![](https://visitcount.itsvg.in/api?id=Lavanya-Rapelli&icon=0&color=0)](https://visitcount.itsvg.in)-->
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
