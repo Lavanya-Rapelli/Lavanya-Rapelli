@@ -13,7 +13,7 @@
 
 🔭 I’m currently a Backend Development Student at Masai School.
 
-🌱 I’m learning Core Backend concepts like MySQL, REST APIs, and Authentication.
+🌱 I’m learning Core Backend concepts like Mongodb, REST APIs, and Authentication.
 
 🤝 I’m actively engaging with coding challenges and collaborating on projects.
 
